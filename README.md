@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshachandragiri&label=Profile%20views&color=0e75b6&style=flat" alt="harshachandragiri" /> </p>
 
-- 🌱 I’m currently learning **Typescript,Angular,NestJs**
+- 🌱 I’m currently learning **Flask,Gen-Ai,RAG,**
 
-- 💬 Ask me about **Javascript,ReactJs,NodeJs,ExpressJs,MongoDb,Java,SQl**
+- 💬 Ask me about **Javascript,ReactJs,NodeJs,ExpressJs,MongoDb,Java,SQl,Typescript,Angular,NestJs**
 
 - 👨‍💻 All of my projects are available at https://harshachandragiri.netlify.app/
 
